@@ -2,8 +2,8 @@
 package handlers
 
 import (
-	"click-counter/db"
-	"click-counter/models"
+	"click-counter/internal/db"
+	"click-counter/internal/models"
 	"database/sql"
 	"encoding/json"
 	"fmt"

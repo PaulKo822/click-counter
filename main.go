@@ -2,8 +2,8 @@
 package main
 
 import (
-	"click-counter/db"
-	"click-counter/handlers"
+	"click-counter/internal/db"
+	"click-counter/internal/handlers"
 	"log"
 	"net/http"
 
